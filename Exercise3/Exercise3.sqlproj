@@ -61,4 +61,10 @@
     <Build Include="History.sql" />
     <Build Include="Servers.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="SeedData.sql" />
+    <None Include="README.txt" />
+    <None Include="Question1.sql" />
+    <None Include="Question2.sql" />
+  </ItemGroup>
 </Project>
